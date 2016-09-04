@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BotonVolver</string>
+    <string name="Boton01">Ir a activity 2</string>
+    <string name="TextoActividad2">Esta es la actividad 2</string>
+</resources>
